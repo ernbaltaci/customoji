@@ -2,7 +2,15 @@
   "name": "customoji",
   "version": "1.0.0",
   "description": "Custom Emoji Picker",
-  "repository": "ernbaltaci/customoji",
+  "author": "ernbaltaci",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernbaltaci/customoji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ernbaltaci/customoji/issues"
+  },
+  "homepage": "https://github.com/ernbaltaci/customoji#readme",
   "license": "MIT",
   "type": "module",
   "exports": {
