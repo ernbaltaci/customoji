@@ -1,7 +1,26 @@
 {
   "name": "customoji",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "description": "Custom Emoji Picker",
+  "keywords": [
+    "emoji",
+    "picker",
+    "custom",
+    "customoji",
+    "customoji-picker",
+    "nuxt emoji picker",
+    "nuxt emoji",
+    "nuxt custom emoji",
+    "nuxt custom emoji picker",
+    "vue emoji picker",
+    "vue custom emoji picker",
+    "custom emoji picker",
+    "custom emoji",
+    "custom emoji picker",
+    "custom emoji",
+    "custom emoji picker",
+    "custom emoji"
+  ],
   "author": "ernbaltaci",
   "repository": {
     "type": "git",
